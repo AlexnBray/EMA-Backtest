@@ -4,6 +4,8 @@ A lightweight Python backtesting tool for Exponential Moving Average (EMA) cross
 
 ---
 
+<img width="1338" height="669" alt="Image" src="https://github.com/user-attachments/assets/e48bca55-b2f3-4420-b0bf-5072616bf306" />
+
 ## How It Works
 
 The strategy is simple:
